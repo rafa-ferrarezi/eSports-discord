@@ -2,19 +2,12 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout Original</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-nextlevel">Próximo Nível</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br/><br/>
 
 <p align="center">
-  <img alt="FeedWidget" src="https://user-images.githubusercontent.com/21183446/190916328-2af9a8cb-7420-4e02-ac37-10a42499499d.png" width="70%" />
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/21183446/190916326-893c26ee-b560-4468-8c14-b1fea9391200.png" />
+  <img alt="FeedWidget" src="https://github.com/rafa-ferrarezi/eSports-discord/blob/main/web/src/assets/nlw-esports.jpg?raw=true" width="70%" />
 </p>
 
 ## ⚙ Tecnologias
